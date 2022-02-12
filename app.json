@@ -6,19 +6,19 @@
   "env": {
     "TOKEN": {
       "description": "Dapatkan di @botfather",
-      "value": "5165243900:AAEpnKAyhiE1b_pHCyBY7DJ_IE-7hcGki64"
+      "value": ""
     },
     "OWNER": {
       "description": "Isi dengan username kalian tanpa tanda @",
-      "value": ""
+      "value": "kenkanasw"
     },
     "GROUP": {
       "description": "Isi dengan username group kalian tanpa tanda @ kalau gak punya gak usah isi",
-      "value": "group"
+      "value": "musikkugroup"
     },
     "CHANNEL": {
       "description": "Isi dengan username channel kalian tanpa tanda @ kalau gak punya gak usah isi",
-      "value": "channel"
+      "value": "musikkuchannel"
     }
   }
 }
